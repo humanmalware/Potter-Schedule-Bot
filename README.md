@@ -2,7 +2,7 @@
 
 Steps to install:
 
-1: Download and Extract the winrar file
+1: Download and Extract the Potter Schedule Bot GitHub.rar file
 
 2: install node js
 
