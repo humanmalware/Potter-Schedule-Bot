@@ -10,7 +10,7 @@ Steps to install:
 
 4: Open any text editor that supports node js and drag and drop the Bot file
 
-5: then go to the file "index.js" scroll to the bottom untill you see "client.login('');" and copy your bot token from earlier between the ('')
+5: then go to the file "index.js" scroll to the bottom untill you see "client.login('');" and copy your bot token from earlier between the ('') then use ctrl + s to save
 
 6: open a terminal or the command prompt and enter "node ." if there is a promt saying "Potter Schedule Bot is Online" then the bot is active
 
